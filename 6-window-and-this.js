@@ -15,3 +15,6 @@ function b() {
 console.log(window.a);
 console.log(a);
 console.log(this.a);
+
+
+//globalThis is a global object that points to the global object in the current environment

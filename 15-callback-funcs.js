@@ -71,3 +71,7 @@ attachEventListeners();
 //* Event listeners are Heavy; since they form closures and takes up memory
 //* even when the event is not occurring
 //* Hence, the need to remove them, if no longer used
+
+
+
+//! Q. How can callback functions be promisified ?
